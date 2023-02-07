@@ -2,3 +2,4 @@
 # tests
 dsadsa
 dsadsadsadas
+git status
